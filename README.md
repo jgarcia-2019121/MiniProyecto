@@ -1,4 +1,4 @@
-# Instrucciones para el Proyecto Age Checker
+# Instrucciones para el Proyecto Validar Edad
 
 ## Descripción
 
