@@ -1,5 +1,3 @@
-# MiniProyecto
-
 # Instrucciones para el Proyecto Age Checker
 
 ## Descripción
@@ -53,4 +51,23 @@ Este proyecto se divide en dos partes: la creación de un backend usando Spring 
 
 ## Finalización
 
-Con estos pasos, hemos completado el mini proyecto de verificación de edad. El código completo está versionado en GitHub para su revisión.
+Primero, voy a crear un repositorio en GitHub llamado **MiniProyecto**, donde incluiré un archivo README con una descripción de este mini proyecto. Aquí podrán revisar el proyecto y entender cómo funciona.
+
+El repositorio está disponible en la siguiente URL:  
+[https://github.com/jgarcia-2019121/MiniProyecto.git](https://github.com/jgarcia-2019121/MiniProyecto.git)
+
+### Creación de ramas
+
+A continuación, crearé dos ramas en el repositorio: una para el BackEnd y otra para el FrontEnd.
+
+#### Pasos para versionar el BackEnd:
+1. Copia la URL del repositorio.
+2. Dirígete a la carpeta donde guardaste el backend.
+3. Abre Git Bash dentro de esa carpeta.
+4. Ejecuta los comandos para añadir los archivos en rojo y subirlos a la rama correspondiente.
+
+#### Pasos para versionar el FrontEnd:
+1. Repite el proceso anterior pero dentro de la carpeta del frontend.
+2. Crea la rama correspondiente y sube los archivos.
+
+Y con esto, ¡hemos completado el mini proyecto! El código completo está versionado en GitHub para su revisión.
